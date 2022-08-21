@@ -232,7 +232,6 @@ section {
   transition: 0.3s;
   padding-top: 10px;
 }
-
 .icon-box:hover{
   box-shadow: 0 8px 26px 0 rgba(0,0,0,0.5);
 }
@@ -255,8 +254,9 @@ section {
 
 .features .content .icon-box p {
   font-size: 15px;
-  color: #979aa1;
+  color: #0f1115;
   margin-left: 60px;
+  text-align: justify;
 }
 
 @media (max-width: 991px) {
